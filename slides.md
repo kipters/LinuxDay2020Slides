@@ -616,8 +616,8 @@ a {
 
 - [dot.net](https://dot.net)
 - [try.dot.net](https://try.dot.net)
-- [Slides: kipte.rs/ld2020-slides](https://kipte.rs/ld2020-slides)
-- [Demo: kipte.rs/ld2020-demo](https://kipte.rs/ld2020-demo)
+- [Slides: kipte.rs/ld2020-slides](http://kipte.rs/ld2020-slides)
+- [Demo: kipte.rs/ld2020-demo](http://kipte.rs/ld2020-demo)
 - [.NET org](https://github.com/dotnet)
 - [M.A.U.I.](https://github.com/dotnet/maui)
 - [Uno Platform](https://github.com/unoplatform)
