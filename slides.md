@@ -605,6 +605,12 @@ public static decimal CalculateToll(object vehicle) =>
 
 ---
 
+<!-- _header: '' -->
+
+![bg](./netconf.png)
+
+---
+
 # Links
 
 <style scoped>
@@ -623,6 +629,7 @@ a {
 - [Uno Platform](https://github.com/unoplatform)
 - [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 - ["What is .NET?"](https://www.youtube.com/watch?v=bEfBfBQq7EE)
+- [".NET Conf"](https://www.dotnetconf.net/)
 
 --- 
 
