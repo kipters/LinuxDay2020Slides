@@ -73,14 +73,14 @@ a {
 
 <!-- _class: lead invert -->
 
-# Codice ➡ CIL ➡ CLR ➡ ⚡️
+# Codice :arrow_right: CIL :arrow_right: CLR :arrow_right: ⚡️
 
 ---
 
 <!-- _class: lead invert -->
 
-## Codice ➡ CIL ➡ CLR ➡ ⚡️
-# Java ➡ bytecode ➡ JVM ➡ ⚡️
+## Codice :arrow_right: CIL :arrow_right: CLR :arrow_right: ⚡️
+# Java :arrow_right: bytecode :arrow_right: JVM :arrow_right: ⚡️
 
 ---
 
